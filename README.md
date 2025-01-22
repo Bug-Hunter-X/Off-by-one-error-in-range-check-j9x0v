@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Ada code that can lead to incorrect range checks.  The `Check_Range` function intends to verify if an integer `X` falls between 10 and 20 (inclusive). However, a subtle error might lead to unexpected results. The solution provides a corrected version.
